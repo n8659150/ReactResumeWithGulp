@@ -1,0 +1,28 @@
+{
+  "name": "reactresumewithgulp",
+  "version": "1.0.0",
+  "description": "Yang Li's resume webpage built with react and gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Yang Li",
+    "Resume",
+    "resume",
+    "webpage",
+    "gulp",
+    "react"
+  ],
+  "author": "Yang Li",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
